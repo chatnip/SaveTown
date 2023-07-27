@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 772218d6e5832cf4ca66e3d785703f34, type: 3}
+  m_Name: 1_1
+  m_EditorClassIdentifier: 
+  fragments:
+  - characterSprite: {fileID: 21300000, guid: b7921448aec8b9c4f8c5cb2a3cd52dd1, type: 3}
+    speaker: 
+    script: "\uC2DC\uB044\uB7EC\uC6B4 \uB9E4\uBBF8\uC18C\uB9AC\uAC00 \uAC15\uB82C\uD588\uB358
+      \uD55C \uC5EC\uB984\uB0A0."
+  - characterSprite: {fileID: 21300000, guid: b7921448aec8b9c4f8c5cb2a3cd52dd1, type: 3}
+    speaker: 
+    script: "\uB098\uB294 \uBC29\uD559\uC744 \uB9DE\uC774\uD574 \uBD80\uBAA8\uB2D8\uACFC
+      \uD568\uAED8 \uC2DC\uACE8\uC5D0 \uB0B4\uB824\uC654\uB2E4."
+  - characterSprite: {fileID: 21300000, guid: 79abf5c02c0345645a4ea612df2e7193, type: 3}
+    speaker: "\uC5C4\uB9C8"
+    script: "\uB098\uB85C\uC57C~ \uADF8\uB9CC \uB180\uACE0 \uB4E4\uC5B4\uC640\uC11C
+      \uC218\uBC15 \uBA39\uC73C\uB834!"
+  - characterSprite: {fileID: 21300000, guid: 478ea782efd521c40841112cb1dcb5d9, type: 3}
+    speaker: "\uB098\uB85C"
+    script: "\uB124~!"
+  - characterSprite: {fileID: 21300000, guid: b7921448aec8b9c4f8c5cb2a3cd52dd1, type: 3}
+    speaker: 
+    script: "\uBD80\uBAA8\uB2D8\uC758 \uB9D0\uC500\uC5D0 \uD759\uBC14\uB2E5\uC744
+      \uB4B9\uAD74\uB358 \uB098\uB294 \uC790\uB9AC\uB97C \uD138\uACE0 \uC77C\uC5B4\uC11C\uB824...
+      \uD588\uB2E4."
+  - characterSprite: {fileID: 21300000, guid: 814d81d68ba40e649a61a784350bf8bd, type: 3}
+    speaker: 
+    script: "\uC606\uC9D1 \uC1A1\uC544\uC9C0\uAC00 \uD558\uB298\uB85C \uC62C\uB77C\uAC00\uB294
+      \uAC83\uC744 \uBCF4\uAE30 \uC804\uAE4C\uC9C0\uB294 \uB9D0\uC774\uB2E4."
+  - characterSprite: {fileID: 21300000, guid: 814d81d68ba40e649a61a784350bf8bd, type: 3}
+    speaker: "\uB098\uB85C"
+    script: "\uC5C4\uB9C8...! \uC800\uAE30 \uC18C\uAC00 \uD558\uB298\uC744 \uB0A0\uACE0\uC788\uC5B4\uC694!"
+  - characterSprite: {fileID: 21300000, guid: d33ead856fb99ba45afe0f0f24a026f4, type: 3}
+    speaker: "\uC5C4\uB9C8"
+    script: "\uC18C\uAC00 \uD558\uB298\uC744 \uB09C\uB2E4\uB2C8...? \uD558\uB298\uC5D4
+      \uC544\uBB34\uAC83\uB3C4 \uC5C6\uB294\uB370..."
+  - characterSprite: {fileID: 21300000, guid: 976e792973920de438ef2ee080d54d45, type: 3}
+    speaker: "\uC5C4\uB9C8"
+    script: "\uAC83\uBCF4\uB2E4, \uD55C\uB098\uB85C! \uC5C4\uB9C8\uAC00 \uC219\uC81C
+      \uB2E4 \uD558\uACE0 \uB180\uC73C\uB7AC\uC9C0!\n\uAC70\uC9D3\uB9D0 \uD558\uC9C0
+      \uB9D0\uACE0 \uC5BC\uB978 \uBC29\uC5D0 \uB4E4\uC5B4\uAC00!"
+  - characterSprite: {fileID: 21300000, guid: 5614fb86cf81d7440a81b6aa54efbac6, type: 3}
+    speaker: "\uB098\uB85C"
+    script: ......
+  - characterSprite: {fileID: 21300000, guid: 5614fb86cf81d7440a81b6aa54efbac6, type: 3}
+    speaker: 
+    script: "\uB098\uB294 \uC5C4\uB9C8 \uBAB0\uB798 \uC606\uC9D1\uC5D0 \uAC00\uBCF4\uAE30\uB85C
+      \uACB0\uC2EC\uD588\uB2E4."

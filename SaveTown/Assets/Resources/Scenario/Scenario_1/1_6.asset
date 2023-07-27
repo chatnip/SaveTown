@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 772218d6e5832cf4ca66e3d785703f34, type: 3}
+  m_Name: 1_6
+  m_EditorClassIdentifier: 
+  fragments:
+  - characterSprite: {fileID: 21300000, guid: fcab633b555d0b74a8ec7dfdadf9f941, type: 3}
+    speaker: "\uC678\uACC4\uC778"
+    script: "\uC091! \uC091\uC090!!"
+  - characterSprite: {fileID: 21300000, guid: 6609810d03bf94641b8423380bb9f481, type: 3}
+    speaker: "\uB098\uB85C"
+    script: "\uC6B0\uC653...! \uC1A1\uC544\uC9C0\uB97C \uC7A1\uC544\uAC00\uB294 \uAC78
+      \uBC29\uD574\uD558\uB2C8\uAE4C \uC5C4\uCCAD \uD654\uB0AC\uB098\uBD10...!\n\uC870\uC2EC\uD574\uC57C\uACA0\uB294\uAC78..."

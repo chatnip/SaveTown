@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 772218d6e5832cf4ca66e3d785703f34, type: 3}
+  m_Name: 3_4
+  m_EditorClassIdentifier: 
+  fragments:
+  - characterSprite: {fileID: 21300000, guid: e8b9fc66f3db5d448aa03c7ec12adb58, type: 3}
+    speaker: "\uD558\uB098"
+    script: "\uC800\uB4E4\uACFC \uC18C\uD1B5\uC744 \uC2DC\uB3C4\uD574\uBCF4\uB824
+      \uD558\uC168\uB098\uC694?"
+  - characterSprite: {fileID: 21300000, guid: 6609810d03bf94641b8423380bb9f481, type: 3}
+    speaker: "\uB098\uB85C"
+    script: "\uCC98\uC74C\uC5D0\uB294 \uADF8\uB7AC\uB294\uB370 \uB9D0\uC774\uC8E0,
+      \uC090\uBE45\uAC70\uB9AC\uAE30\uB9CC \uD574\uC11C \uB3C4\uD1B5 \uB9D0\uC744
+      \uC54C\uC544\uB4E3\uAE30\uAC00 \uD798\uB4E4\uB354\uB77C\uAD6C\uC694..."
+  - characterSprite: {fileID: 21300000, guid: 914683cdc16e8d346b299d64c7271d88, type: 3}
+    speaker: "\uD558\uB098"
+    script: "\uC774\uB7F0... \uC544\uC9C1\uAE4C\uC9C0\uB294 \uADF8\uC800 \uCAD3\uC544\uB0B8\uB2E4\uB294
+      \uBC29\uBC95\uBC16\uC5D0\uB294 \uC5C6\uB2E4\uB294 \uAC83\uC774\uAD70\uC694..."
+  - characterSprite: {fileID: 21300000, guid: 82858fadcf83563409b31c1582af73ae, type: 3}
+    speaker: "\uB098\uB85C"
+    script: "\uC5EC\uAE30 \uC640\uC11C \uD55C\uAC00\uC9C0 \uB354 \uC54C\uC544\uB0B8
+      \uAC83\uC774 \uC788\uC5C8\uB294\uB370... \uC800\uB140\uC11D\uB4E4, \uD574\uCD08\uB97C
+      \uC5C4\uCCAD \uC2EB\uC5B4\uD574\uC694!"
+  - characterSprite: {fileID: 21300000, guid: 89e00e0c53860fc46ade096e97412ea9, type: 3}
+    speaker: "\uD558\uB098"
+    script: "\uACFC\uC5F0...! \uC88B\uC740 \uAD00\uCC30\uB825\uC774\uB124\uC694,
+      \uB098\uB85C\uAD70."

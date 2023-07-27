@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 772218d6e5832cf4ca66e3d785703f34, type: 3}
+  m_Name: 3_3
+  m_EditorClassIdentifier: 
+  fragments:
+  - characterSprite: {fileID: 21300000, guid: 14828608e7b08814d80289a3bff19a92, type: 3}
+    speaker: ???
+    script: "\uAD6C\uD574\uC8FC\uC154\uC11C...(\uD6CC\uCA4D) \uAC10\uC0AC\uD569\uB2C8\uB2E4..."
+  - characterSprite: {fileID: 21300000, guid: e8b9fc66f3db5d448aa03c7ec12adb58, type: 3}
+    speaker: "\uD558\uB098"
+    script: "\uC800\uB294 \uC5EC\uAE30\uC11C \uD574\uC591\uC0DD\uD0DC\uB97C \uC870\uC0AC\uD558\uB294
+      \uC5F0\uAD6C\uC6D0\uC774\uC5D0\uC694... \uC774\uB984\uC740 \uD558\uB098\uAD6C\uC694..."
+  - characterSprite: {fileID: 21300000, guid: 914683cdc16e8d346b299d64c7271d88, type: 3}
+    speaker: "\uD558\uB098"
+    script: "\uBABB\uBCFC \uAF34\uC744 \uBCF4\uC600\uB124\uC694..."
+  - characterSprite: {fileID: 21300000, guid: b7921448aec8b9c4f8c5cb2a3cd52dd1, type: 3}
+    speaker: "\uB098\uB85C"
+    script: "\uADF8\uB7F4 \uC218 \uC788\uC8E0! \uC800\uB3C4 \uCC98\uC74C\uC5D0\uB294
+      \uC5C4\uCCAD \uBB34\uC11C\uC6E0\uAC70\uB4E0\uC694..."
+  - characterSprite: {fileID: 21300000, guid: 914683cdc16e8d346b299d64c7271d88, type: 3}
+    speaker: "\uD558\uB098"
+    script: "'\uC800\uAC83'\uB4E4\uC740 \uB3C4\uB300\uCCB4 \uBB58\uAE4C\uC694..."
+  - characterSprite: {fileID: 21300000, guid: 1733c9a02b667ff48bf4bbf52c44b185, type: 3}
+    speaker: "\uB098\uB85C"
+    script: "\uC800\uB3C4 \uC798 \uBAA8\uB974\uACA0\uC5B4\uC694... \uADF8\uCE58\uB9CC
+      \uBD84\uBA85\uD55C\uAC74, \uB9C8\uC744\uC758 \uBB3C\uAC74\uB4E4\uC744 \uD6D4\uCCD0\uAC04\uB2E8\uAC70\uC8E0!"
+  - characterSprite: {fileID: 21300000, guid: 914683cdc16e8d346b299d64c7271d88, type: 3}
+    speaker: "\uD558\uB098"
+    script: "\uBB34\uC2A8 \uC774\uC720\uAC00 \uC788\uB358 \uAC83\uC77C\uAE4C\uC694..."

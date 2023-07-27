@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 772218d6e5832cf4ca66e3d785703f34, type: 3}
+  m_Name: 2_3
+  m_EditorClassIdentifier: 
+  fragments:
+  - characterSprite: {fileID: 21300000, guid: dfd7c501598cdef41a6a89ad84aa1f0b, type: 3}
+    speaker: ???
+    script: "\uB3C4\uC640\uC918\uC11C \uC815\uB9D0 \uACE0\uB9C8\uC6CC, \uAF2C\uB9C8\uB3C4\uB828\uB2D8!"
+  - characterSprite: {fileID: 21300000, guid: 478ea782efd521c40841112cb1dcb5d9, type: 3}
+    speaker: "\uB098\uB85C"
+    script: "\uD5E4\uD5E4, \uBCC4\uB9D0\uC500\uC744\uC694!"
+  - characterSprite: {fileID: 21300000, guid: dfd7c501598cdef41a6a89ad84aa1f0b, type: 3}
+    speaker: "\uAC00\uC628"
+    script: "\uB098\uB294 \uAC00\uC628\uC774\uB77C\uACE0 \uD574. \uC5EC\uAE30 \uD5A5\uAD50\uC5D0\uC11C
+      \uC77C\uD558\uACE0 \uC788\uC9C0."
+  - characterSprite: {fileID: 21300000, guid: 57943fe9461700b4eb95e8d5fee74069, type: 3}
+    speaker: "\uAC00\uC628"
+    script: "\uC694\uC0C8 \uC800\uAC83\uB4E4\uC774 \uD5A5\uAD50\uC5D0\uC11C \uBB3C\uAC74\uC744
+      \uD6D4\uCCD0\uAC00\uC11C \uACE0\uC0DD\uC774 \uC774\uB9CC\uC800\uB9CC\uC774
+      \uC544\uB2C8\uC5C8\uAC70\uB4E0..."
+  - characterSprite: {fileID: 21300000, guid: e7669be475254f643a23bc5c961d4eac, type: 3}
+    speaker: "\uAC00\uC628"
+    script: "\uD639\uC2DC \uC55E\uC73C\uB85C\uB3C4 \uC880 \uB354 \uB3C4\uC640\uC904
+      \uC218 \uC788\uACA0\uB2C8? \uBD80\uD0C1\uC774\uC57C..."
+  - characterSprite: {fileID: 21300000, guid: b7921448aec8b9c4f8c5cb2a3cd52dd1, type: 3}
+    speaker: "\uB098\uB85C"
+    script: "\uBB3C\uB860\uC774\uC8E0!"
+  - characterSprite: {fileID: 21300000, guid: dfd7c501598cdef41a6a89ad84aa1f0b, type: 3}
+    speaker: "\uAC00\uC628"
+    script: "\uAF2C\uB9C8\uB3C4\uB828\uB2D8\uC740 \uC815\uB9D0 \uCC29\uD55C \uC544\uC774\uAD6C\uB098!
+      \uC774\uB530 \uC57D\uACFC\uB77C\uB3C4 \uCC59\uACA8\uC904\uAC8C~"

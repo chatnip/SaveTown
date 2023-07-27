@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 772218d6e5832cf4ca66e3d785703f34, type: 3}
+  m_Name: 1_2
+  m_EditorClassIdentifier: 
+  fragments:
+  - characterSprite: {fileID: 21300000, guid: 814d81d68ba40e649a61a784350bf8bd, type: 3}
+    speaker: "\uB098\uB85C"
+    script: "\uC6B0\uC653...! \uC774\uAC8C \uB2E4 \uBB50\uC57C!"
+  - characterSprite: {fileID: 21300000, guid: 494457b8d5caac7488289742b9a5d4ef, type: 3}
+    speaker: "\uC678\uACC4\uC778"
+    script: "\uC090... \uC090..."
+  - characterSprite: {fileID: 21300000, guid: 64fe314f6030c804787565f6b5ea60ce, type: 3}
+    speaker: "\uC678\uACC4\uC778"
+    script: "\uC090\uBE45...?"
+  - characterSprite: {fileID: 21300000, guid: 6609810d03bf94641b8423380bb9f481, type: 3}
+    speaker: "\uB098\uB85C"
+    script: "\uADF8\uB0E5... \uC9C0\uB098\uAC00\uB124..."
+  - characterSprite: {fileID: 21300000, guid: 5614fb86cf81d7440a81b6aa54efbac6, type: 3}
+    speaker: "\uB098\uB85C"
+    script: "\uC544\uB2C8, \uC774\uB7F4 \uB54C\uAC00 \uC544\uB2C8\uC9C0...! \uC5B4\uC11C
+      \uC800 \uC678\uACC4\uC778\uC744 \uB9D0\uB9AC\uC9C0 \uC54A\uC73C\uBA74 \uC606\uC9D1
+      \uC544\uC800\uC528\uD55C\uD14C \uD63C\uB0A0\uC9C0\uB3C4 \uBAB0\uB77C!"

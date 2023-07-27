@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b144cc949c6e8194faca074840361f1e, type: 3}
+  m_Name: 2_1
+  m_EditorClassIdentifier: 
+  enemySet:
+    enemySprite: {fileID: 21300000, guid: 73bc22def61399748bda446063539a23, type: 3}
+    enemyAmount: 20
+    enemyTimeInterval: 3
+    enemySpeed: 10
+    arrowAmount: 1
+    arrowSpriteNum: 8
+    arrowTextNum: 1
+    enemyDamage: 300
+  bossSet:
+    bossEnemySprite: {fileID: 21300000, guid: 7acca7c43b6f096498f3fc82956d2364, type: 3}
+    bossSpeed: 11
+    bossArrowAmount: 5
+    bossArrowSpriteNum: 8
+    bossArrowTextNum: 2
+  haveDone: 0
+  isClear: 0
+  haveScenario: 1
+  scenario:
+    scenarioBase: {fileID: 11400000, guid: 5e98f7becd3890e4ba05cc0405ef51b3, type: 2}
